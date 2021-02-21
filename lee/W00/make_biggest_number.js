@@ -1,7 +1,6 @@
 "use strict";
 
 const number = "146256";
-const asas = "헬로";
 
 function solution(number, k) {
   let answer = "";
